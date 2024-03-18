@@ -28,6 +28,9 @@ Currently the following generators are supported
 Providing a name is optional but encouraged, especially when 
 using multiple entries in a single document.
 
+The command `Diagon` will generate the diagram and insert it after the code block.
+Once placed it can be put anywhere and subsequent calls will update the diagram.
+
 #### Sequence Diagram
 ````
 ```sequence name
