@@ -7,7 +7,12 @@ and retain the instructions so they can be modified.
 
 ## Installation
 
-### Lazy
+Make sure you have Diagon installed:
+https://github.com/ArthurSonzogni/Diagon
+
+Use your favorite plugin manager to install diagon.nvim
+
+For Lazy add something like this:
 
 ```
   {
